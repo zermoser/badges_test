@@ -21,7 +21,7 @@ const Hero: React.FC = () => {
         <h1 className="text-5xl font-bold mb-2">Welcome to My Landing Page</h1>
         <p className="text-xl mb-8">Beautiful, responsive, and fast with Tailwind and TypeScript.</p>
         <button className="bg-white text-blue-600 font-semibold px-6 py-2 rounded shadow-lg hover:bg-blue-100">
-          Get Started
+          Get Started Eiei
         </button>
       </div>
     </section>
